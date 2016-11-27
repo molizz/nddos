@@ -2,8 +2,7 @@
 使用ruby写的一份抗D脚本，学习deflate
 
 # 教程
-作者：
-锐壳科技 - www.rkidc.net - 莫粒
+作者：莫粒
  
 描述：
 
