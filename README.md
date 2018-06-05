@@ -1,8 +1,7 @@
 # nddos
-使用ruby写的一份抗D脚本，学习deflate
+使用ruby写的抗D脚本，学习deflate
 
 # 教程
-作者：莫粒
  
 描述：
 
