@@ -1,7 +1,6 @@
 #!/usr/bin/ruby
 
-# 作者：
-#   锐壳科技 - www.rkidc.net - 莫粒
+# 作者：moli
 # 描述：
 #   该脚本用于检测ip的连接数量，超过设定的数量就添加到iptables中屏蔽
 # 使用：
